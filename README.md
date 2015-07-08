@@ -1,2 +1,2 @@
 # FirstGitHubRepo
-this is a test to learn
+This is a test to learn Git Cmd
