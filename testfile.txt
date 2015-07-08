@@ -1,0 +1,23 @@
+ur la branche master
+Votre branche est en avance sur 'origin/master' de 1 commit.
+  (utilisez "git push" pour publier vos commits locaux)
+
+  rien à valider, la copie de travail est propre
+  ➜  FirstGitHubRepo git:(master) git remote add origin https://github.com/SubvDev/FirstGitHubRepo.git
+  fatal: la distante origin existe déjà.
+  [1]    22918 exit 128   git remote add origin https://github.com/SubvDev/FirstGitHubRepo.git
+  ➜  FirstGitHubRepo git:(master) git push -u origin master
+  Username for 'https://github.com': SubvDev
+  Password for 'https://SubvDev@github.com': 
+  Counting objects: 5, done.
+  Delta compression using up to 4 threads.
+  Compressing objects: 100% (2/2), done.
+  Writing objects: 100% (3/3), 298 bytes | 0 bytes/s, done.
+  Total 3 (delta 0), reused 0 (delta 0)
+  To https://github.com/SubvDev/FirstGitHubRepo.git
+     2b22a3b..be406a2  master -> master
+	 La branche master est paramétrée pour suivre la branche distante master depuis origin.
+	 ➜  FirstGitHubRepo git:(master) touch testfile.txt
+	 ➜  FirstGitHubRepo git:(master) ✗ ls
+	 README.md  testfile.txt
+
