@@ -1,7 +1,7 @@
 # FirstGitHubRepo
 This is a test to learn Git Cmd
  
-  vim README.md\n
+  vim README.md
   git status
   git add README.md
   git commit -m "first letter to uppercase"
